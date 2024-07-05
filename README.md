@@ -86,5 +86,5 @@ This project demonstrates the implementation and evaluation of a VAE with U-Net 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/face-mask-vae-unet.git
+git clone https://github.com/newArsen/face-mask-vae-unet.git
 cd face-mask-vae-unet
